@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocateM3</string>
+    <string name="get_location">Get Location</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="textview">TextView</string>
+    <string name="send_position">Send position</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="maptype">MapType</string>
+</resources>

@@ -1,0 +1,19 @@
+{
+  "name": "bacs_andrei",
+  "version": "1.0.0",
+  "description": "alexa skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrei Bacs",
+  "license": "ISC",
+  "alexa":
+  {
+  	"applicationId": "amzn1.ask.skill.6dc30e32-98a1-4696-ad07-763cf1b9c202"
+  },
+	"dependencies":{
+		"alexa-app":"^4.0.1",
+		"request-promise":"^4.2.1"
+	}
+}
