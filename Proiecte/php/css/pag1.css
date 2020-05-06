@@ -1,0 +1,72 @@
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing: border-box;
+}
+html{
+	scroll-behavior: smooth;
+}
+body{
+  font-family: 'Roboto';
+  color:#555;
+}
+ul{
+  padding: 0px 90px;
+  background-color:#38003c;
+  display: flex;
+}
+ul li{
+  display: flex;
+}
+ul li a{
+  color:white;
+  text-decoration: none;
+}
+ul li a i{
+ padding: 20px 30px;
+}
+ul li button{
+  color:white;
+  text-decoration: none;
+  padding: 20px 30px;
+  background-color:#38003c;
+  border:none;
+  background: none;
+}
+ul li form:hover{
+    background-color: #00ff85;
+	color:#38003c;
+}
+ul li button:hover{
+    background-color: #00ff85;
+	color:#38003c;
+}
+ul li a img{
+	background-color: #00ff85;
+}
+ul li a:hover{
+    background-color: #00ff85;
+	color:#38003c;
+}
+.mr-auto{
+  margin-right: auto;
+}
+.ml-auto{
+  margin-left: auto;
+}
+.img{
+	width:62px;
+	display:flex;
+	height:62.5px;
+}
+.navbar {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index:1
+}
+.teams{
+  background-color:#38003c;
+  color:white;
+}

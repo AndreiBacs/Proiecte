@@ -1,0 +1,53 @@
+.*{
+	margin:0px;
+	padding:0px;
+	
+}
+
+
+header{
+	margin-top:40px;
+}
+img{
+	max-width:100%;
+}
+p{
+	margin:auto;
+
+}
+.container{
+	width:50%;
+	padding:10px;
+	box-sizing:border-box;
+	margin:auto;
+}
+.body{
+	font-family:arial;
+	color;#111;
+}
+h1{
+	font-family:georgia;
+	font-size:40px;
+	margin-bottom:5px;
+	
+}
+a{
+	text-decoration:none;
+}
+a:hover{
+	color:#111;
+	text-decoration:none;
+
+}
+.continut{
+  column-width:250px;
+}
+@media(max-width:1000px){
+.container{
+width: 600px;
+margin: auto;
+}
+.continut{
+column-count: 2;
+}
+}

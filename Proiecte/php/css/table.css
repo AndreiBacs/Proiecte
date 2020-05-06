@@ -1,0 +1,72 @@
+.ptable table{
+	margin: 20px auto;
+	border-collapse: collapse;
+}
+
+.ptable{
+	margin: 0px 0% 30px 0%;
+}
+
+th, td {
+    padding: 15px;
+	
+}
+
+th{
+	
+	color: #e90052;
+}
+
+
+.wpos{
+	text-align: center;
+}
+
+.wpos td{
+	color: #38003c;
+}
+
+.pos{
+	text-align: center;
+}
+
+.pos td{
+	color: #e90052;
+}
+
+table .col{
+	border-bottom: 1px solid #38003c;
+	
+}
+
+.col-winner{
+	color:#e90052;
+}
+table .col-winner{
+	border-bottom: 1px solid #e90052;
+}
+table .col-winner:hover{
+	background-color: #e90052;
+}
+table .col-winner:hover{
+	color: white;
+}
+
+
+.wpos:hover{
+	background-color: #04f5ff;
+}
+.wpos:hover td{
+	color: #38003c;
+}
+
+.pos:hover{
+	background-color: #38003c;
+}
+.pos:hover td{
+	color: #00ff85;
+}
+
+.table{
+	background-color:white;
+}
