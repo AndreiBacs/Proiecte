@@ -1,0 +1,79 @@
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\bin\Debug\Database1.mdf
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\bin\Debug\Database1_log.ldf
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form4.resources
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form5.resources
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\bin\Debug\MySql.Data.xml
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.WelcomeF.resources
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.UserF.resources
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AdminF.resources
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RegisterF.resources
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Profile.resources
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Addbook.resources
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.UpdateB.resources
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RequestedB.resources
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.SearchBook.resources
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Return.resources
+C:\Users\alexandra\Documents\Pt scoala\An3\Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ManUsers.resources
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\bin\Debug\Database1.mdf
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\bin\Debug\Database1_log.ldf
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\bin\Debug\MySql.Data.xml
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Addbook.resources
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.WelcomeF.resources
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.UserF.resources
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AdminF.resources
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form4.resources
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form5.resources
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ManUsers.resources
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Profile.resources
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RegisterF.resources
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RequestedB.resources
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Return.resources
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.SearchBook.resources
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.UpdateB.resources
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CopyComplete
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\bin\Debug\Return.resx
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\bin\Debug\Return.cs
+D:\an 3 sem.2\II\Biblioteca\Biblioteca\bin\Debug\Return.Designer.cs
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\bin\Debug\Return.resx
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\bin\Debug\Return.cs
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\bin\Debug\Return.Designer.cs
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\bin\Debug\Database1.mdf
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\bin\Debug\Database1_log.ldf
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\bin\Debug\MySql.Data.xml
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Addbook.resources
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.WelcomeF.resources
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.UserF.resources
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AdminF.resources
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form4.resources
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form5.resources
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ManUsers.resources
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Profile.resources
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RegisterF.resources
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RequestedB.resources
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Return.resources
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.SearchBook.resources
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.UpdateB.resources
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CopyComplete
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+D:\UTCN\An III\sem II\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
